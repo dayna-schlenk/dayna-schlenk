@@ -34,6 +34,6 @@ When I’m not working in the recruiting space, I’m teaching myself front end 
 
 As I continue to learn and explore, feel free to connect! I’d be happy to learn more about you and see where we could collaborate.
 
-:envelope: at dayna.schlenker@gmail.com or send a message on [LinkedIn](https://www.linkedin.com/in/dayna-schlenker-4b331212b/).
+:envelope: at dayna.schlenker@gmail.com
 
 <img src="https://media0.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=ecf05e4768da3fa3db4520107d98a9f5a43edb09a4e3bf02&rid=giphy.gif" width="200">
