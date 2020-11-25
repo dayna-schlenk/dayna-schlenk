@@ -1,39 +1,37 @@
-![image](https://user-images.githubusercontent.com/69041115/90184375-a1e35400-dd7a-11ea-988f-839fc42443d2.png)
+![Hero Banner](images/hero-banner.png)
 
-When I’m not working in the recruiting space, I’m teaching myself front end web dev skills. I get excited about building things that can make daily life a little easier for others.
-
----
-
-<details>
-<summary>:computer: What I've been tinkering with lately</summary>
-<br>
-  <ul>
-    <li> HTML & CSS </li>
-    <li> Bootstrap & Responsive Design </li>
-    <li> Sass </li>
-    <li> Markdown </li>
-    <li> Git & GitHub </li>
-    <li> Visual Studio Code </li>
-  </ul>
-</details>
-
-<details>
-<summary>:books: Current favorite resources</summary>
-<br>
-  <ul>
-    <li> <a href="https://skillcrush.com/">Skillcrush</a> & <a href="https://www.freecodecamp.org/">freeCodeCamp</a> </li>
-    <li> <a href="https://css-tricks.com/">CSS-Tricks</a> </li>
-    <li> <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf">Markdown Cheat Sheet</a> </li>
-    <li> <a href="https://learntocodewith.me/blog/">Learn to Code with Me Blog</a> </li>
-    <li> <a href="https://adam-marsden.co.uk/css-cheat-sheet">CSS Cheat Sheet</a> </li>
-    <li> <a href="https://www.frontendmentor.io/">Frontend Mentor</a> </li>
-  </ul>
-</details>
+I'm a self-taught coder who is learning web development in addition to my full-time work.
 
 ---
 
-As I continue to learn and explore, feel free to connect! I’d be happy to learn more about you and see where we could collaborate.
+**Current Tools & Technologies:**
 
-:envelope: at dayna.schlenker@gmail.com
+<img src="images/html-logo.png" width="90" height="90"/>
+<img src="images/css-logo.png" width="90" height="90"/>
+<img src="images/vs-code-logo.png" width="80" height="80"/>
+<img src="images/github-logo.png" width="80" height="80"/>
+<img src="images/git-logo.png" width="80" height="80"/>
+<img src="images/bootstrap-logo.png" width="80" height="80"/>
 
-<img src="https://media0.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=ecf05e4768da3fa3db4520107d98a9f5a43edb09a4e3bf02&rid=giphy.gif" width="200">
+---
+
+**Currently Learning:**
+
+<img src="images/javascript-logo.png" width="80" height="80"/>
+<img src="images/sass-logo.png" width="100" height="80"/>
+
+---
+
+**More about me:**
+
+:house: Based in Bloomington, IL
+
+:computer: Currently work as a recruiting coordinator and project lead
+
+:dog: Rescue dog mom
+
+:coffee: Can normally find me in a coffee shop or brewery :beer:
+
+---
+
+Want to connect? [:envelope:](dayna.schlenker@gmail.com)
