@@ -1,6 +1,6 @@
 ![Hero Banner](images/hero-banner.png)
 
-I'm a self-taught coder who is learning web development in addition to my full-time work.
+I'm a self-taught coder who is learning web development in addition to my full-time work. I love building things and figuring out how to solve problems. I'm excited to build websites and web apps that others can interact with and benefit from. :woman_technologist:
 
 ---
 
@@ -38,4 +38,6 @@ I'm a self-taught coder who is learning web development in addition to my full-t
 
 ---
 
-Want to connect? [:envelope:](dayna.schlenker@gmail.com)
+Want to connect?
+
+:envelope: at [dayna.schlenker@gmail.com](mailto:dayna.schlenker@gmail.com) or check out  my [LinkedIn](https://www.linkedin.com/in/dayna-schlenker-4b331212b/)
