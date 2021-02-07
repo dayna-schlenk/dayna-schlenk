@@ -13,6 +13,7 @@ I'm a self-taught coder who is learning web development in addition to my full-t
   <img src="images/github-logo.png" width="80" height="80"/>
   <img src="images/git-logo.png" width="80" height="80"/>
   <img src="images/bootstrap-logo.png" width="80" height="80"/>
+  <img src="images/sass-logo.png" width="100" height="80"/>
 </p>
 
 ---
@@ -21,7 +22,6 @@ I'm a self-taught coder who is learning web development in addition to my full-t
 
 <p float="left">
   <img src="images/javascript-logo.png" width="80" height="80"/>
-  <img src="images/sass-logo.png" width="100" height="80"/>
 </p>
 
 ---
