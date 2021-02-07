@@ -27,3 +27,9 @@ Outside of my full-time job in recruiting, I am teaching myself how to build coo
 ---
 
 **:coffee: Want to connect?**
+
+:point_right: [Twitter](https://twitter.com/daschl2)<br>
+:point_right: [Email](mailto:dayna.schlenker@gmail.com)<br>
+:point_right: [LinkedIn](https://www.linkedin.com/in/dayna-schlenker-4b331212b/)
+
+I love sharing resources and hearing about others' self-taught developer journeys :grinning:
