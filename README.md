@@ -26,14 +26,4 @@ Outside of my full-time job in recruiting, I am teaching myself how to build coo
 
 ---
 
-**More about me:**
-
-:house: Based in Bloomington, IL
-
-:computer: Currently work as a recruiting coordinator and project lead
-
-:dog: Rescue dog mom
-
-:coffee: Can normally find me in a coffee shop or brewery :beer:
-
----
+**:coffee: Want to connect?**
