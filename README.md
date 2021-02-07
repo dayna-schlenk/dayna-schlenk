@@ -1,6 +1,6 @@
 ![Hero Banner](images/hero-banner.png)
 
-Outside of my full-time job in recruitment and project management, I am teaching myself how to build cool things on the web. :woman_technologist:
+Outside of my full-time job in recruiting, I am teaching myself how to build cool things on the web. :woman_technologist:
 
 ---
 
