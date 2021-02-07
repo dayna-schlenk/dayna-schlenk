@@ -37,7 +37,3 @@ Outside of my full-time job in recruitment and project management, I am teaching
 :coffee: Can normally find me in a coffee shop or brewery :beer:
 
 ---
-
-Want to connect?
-
-:envelope: at [dayna.schlenker@gmail.com](mailto:dayna.schlenker@gmail.com) or check out  my [LinkedIn](https://www.linkedin.com/in/dayna-schlenker-4b331212b/)
