@@ -1,6 +1,6 @@
 ![Hero Banner](images/hero-banner.png)
 
-I'm a self-taught coder who is learning web development in addition to my full-time work. I love building things and figuring out how to solve problems. I'm excited to build websites and web apps that others can interact with and benefit from. :woman_technologist:
+Outside of my full-time job in recruitment and project management, I am teaching myself how to build cool things on the web. :woman_technologist:
 
 ---
 
