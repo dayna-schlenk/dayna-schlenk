@@ -5,7 +5,7 @@ I’m Dayna - a self-taught developer who is passionate about code, the user exp
 <br>
 
 <br>
-:coffee: Currently focusing on Java & Salesforce development.
+:coffee: Currently focusing on Java & Salesforce development in my professional work.
 <br>
 :computer: I like playing around with frontend technologies in my spare time.
 <br>
