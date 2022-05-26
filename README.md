@@ -3,7 +3,9 @@
 I’m Dayna - a self-taught developer who is passionate about code, the user experience, and collaboration.
 <br><br>
 
-![](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif);
+<!-- ![](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif); -->
+
+<img width="300" height="200" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
 
 <br>
 :coffee: Currently focusing on Java & Salesforce development in my professional work.
