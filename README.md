@@ -5,7 +5,7 @@ I’m Dayna - a self-taught developer who is passionate about code, the user exp
 <br>
 
 <br>
-![Animal waving hello](https://media3.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+![Animal waving hello](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 <br>
 
 <br>
