@@ -5,7 +5,7 @@ I’m Dayna - a self-taught developer who is passionate about code, the user exp
 <br>
 
 <br>
-![dog waving hello](https://github.com/dayna-schlenk/dayna-schlenk/blob/readme-update/dogwaving.gif)
+![Animal waving hello](https://media3.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 <br>
 
 <br>
