@@ -5,8 +5,7 @@ I’m Dayna - a self-taught developer who is passionate about code, the user exp
 <br>
 
 <br>
-![dog waving hello](https://github.com/dayna-schlenk/dayna-schlenk/blob/429b53658c4828ee48e72efdd028354ffe08544d/dogwaving.gif)
-<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![dog waving hello](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 <br>
 
 <br>
