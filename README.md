@@ -5,10 +5,6 @@ I’m Dayna - a self-taught developer who is passionate about code, the user exp
 <br>
 
 <br>
-![Animal waving hello](dogwaving.gif)
-<br>
-
-<br>
 :coffee: Currently focusing on Java & Salesforce development.
 <br>
 :computer: I like playing around with frontend technologies in my spare time.
