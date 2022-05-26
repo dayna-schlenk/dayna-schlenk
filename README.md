@@ -5,7 +5,7 @@ I’m Dayna - a self-taught developer who is passionate about code, the user exp
 
 <!-- ![](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif); -->
 
-<img width="300" height="200" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
+<img width="300" height="200" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="Dog waving hello">
 
 <br>
 :coffee: Currently focusing on Java & Salesforce development in my professional work.
